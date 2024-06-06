@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="building_names">
+        <item>Telkom University Landmark Tower</item>
+        <item>Telkom University Convention Hall</item>
+        <item>Telkom University Sport Centre</item>
+        <item>Fakultas Komunikasi dan Bisnis</item>
+        <item>Gedung Kuliah Umum 3</item>
+        <item>Gedung Bangkit (Rektorat)</item>
+        <item>Gedung Kuliah Umum 1</item>
+        <item>Gedung Deli (Fakultas Teknik Elektro)</item>
+        <item>Masjid Syamsul \'Ulum</item>
+        <item>Student Center</item>
+        <item>Business Center</item>
+    </string-array>
+
+    <integer-array name="building_pictures">
+    </integer-array>
+
+    <string-array name="adjacent_buildings">
+        <item>0102</item>
+        <item>00020305</item>
+        <item>00010405</item>
+        <item>0106</item>
+        <item>020507</item>
+        <item>0102040607</item>
+        <item>030508</item>
+        <item>04050809</item>
+        <item>060710</item>
+        <item>0710</item>
+        <item>0809</item>
+    </string-array>
+
+    <string-array name="adjacent_paths">
+        <item>0001</item>
+        <item>00020304</item>
+        <item>01020506</item>
+        <item>0307</item>
+        <item>050809</item>
+        <item>0406081011</item>
+        <item>071012</item>
+        <item>09111314</item>
+        <item>121315</item>
+        <item>1416</item>
+        <item>1516</item>
+    </string-array>
+
+    <integer-array name="paths">
+        <item>@drawable/path_00</item>
+        <item>@drawable/path_01</item>
+        <item>@drawable/path_02</item>
+        <item>@drawable/path_03</item>
+        <item>@drawable/path_04</item>
+        <item>@drawable/path_05</item>
+        <item>@drawable/path_06</item>
+        <item>@drawable/path_07</item>
+        <item>@drawable/path_08</item>
+        <item>@drawable/path_09</item>
+        <item>@drawable/path_10</item>
+        <item>@drawable/path_11</item>
+        <item>@drawable/path_12</item>
+        <item>@drawable/path_13</item>
+        <item>@drawable/path_14</item>
+        <item>@drawable/path_15</item>
+        <item>@drawable/path_16</item>
+    </integer-array>
+
+    <integer-array name="path_distances">
+        <item>400</item>
+        <item>230</item>
+        <item>230</item>
+        <item>250</item>
+        <item>300</item>
+        <item>170</item>
+        <item>450</item>
+        <item>350</item>
+        <item>250</item>
+        <item>280</item>
+        <item>200</item>
+        <item>280</item>
+        <item>130</item>
+        <item>280</item>
+        <item>230</item>
+        <item>300</item>
+        <item>130</item>
+    </integer-array>
+</resources>

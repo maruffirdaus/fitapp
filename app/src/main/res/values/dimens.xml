@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="header_height">135dp</dimen>
+    <dimen name="header_margin">119dp</dimen>
+    <dimen name="max_map_width">1500dp</dimen>
+    <dimen name="min_map_width">375dp</dimen>
+    <dimen name="max_map_height">2500dp</dimen>
+    <dimen name="min_map_height">625dp</dimen>
+</resources>
