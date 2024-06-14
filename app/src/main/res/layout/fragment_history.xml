@@ -42,7 +42,7 @@
         android:layout_height="match_parent"
         android:gravity="center"
         android:text="@string/no_history_yet"
-        android:textAppearance="@style/TextAppearance.Material3.BodyLarge"
+        android:textAppearance="@style/TextAppearance.Material3.BodyMedium"
         android:textColor="?attr/colorOnSurfaceVariant"
         android:visibility="gone" />
 </androidx.coordinatorlayout.widget.CoordinatorLayout>

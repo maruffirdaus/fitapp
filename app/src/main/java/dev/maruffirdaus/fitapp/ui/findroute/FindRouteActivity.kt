@@ -110,7 +110,7 @@ class FindRouteActivity : AppCompatActivity() {
                     } else {
                         Integer.parseInt(distanceEditText.text.toString())
                     }
-                    if (distance in 150..3000) {
+                    if (distance in 150..2850) {
                         val algorithm = if (backtracking.isChecked) {
                             0
                         } else {
@@ -121,7 +121,7 @@ class FindRouteActivity : AppCompatActivity() {
                         setResult(SUCCESS, resultIntent)
                         finish()
                     } else {
-                        distanceTextInput.error = "Jarak harus berada pada rentang 150-3000 m"
+                        distanceTextInput.error = "Jarak harus berada pada rentang 150-2850 m"
                         MaterialAlertDialogBuilder(this@FindRouteActivity)
                             .setTitle("Jarak tidak sesuai")
                             .setMessage("Jarak harus berada pada rentang 150-2850 m.")

@@ -100,7 +100,7 @@ class MainViewModel : ViewModel() {
 
     fun addNewHistory(history: History) {
         if (this.history.size < 6) {
-            this.history += history
+            this.history = listOf(history) + this.history
         } else {
             this.history = listOf(history)
         }
