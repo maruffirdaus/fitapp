@@ -1,1 +1,1 @@
-![fitApp](https://github.com/user-attachments/assets/f7b933b8-a1e5-480f-996e-cf8be9891cb8)
+![fitApp](https://github.com/user-attachments/assets/b5488f16-ee29-40ab-8b0c-a62c711d5207)
