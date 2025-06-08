@@ -21,6 +21,13 @@ An app to find running routes in the Telkom University area, built with Kotlin. 
 ### Languages:
 * **Kotlin**
 
+### UI:
+* **XML Layouts**
+
+### Libraries:
+* **ViewModel**
+* **LiveData**
+
 ## How to Run:
 
 **Prerequisites:**
@@ -41,6 +48,6 @@ An app to find running routes in the Telkom University area, built with Kotlin. 
     * Navigate to the cloned `fitApp` folder and select it.
 3.  **Sync Gradle:**
     * Wait for Android Studio to index files and sync the project with its Gradle files.
-4.  **Run the App:**
+4.  **Run the app:**
     * Select an available emulator or connect a physical Android device.
     * Click the `Run 'app'` button (green play icon).
