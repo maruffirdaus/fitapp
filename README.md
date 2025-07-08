@@ -2,7 +2,7 @@
 
 An app to find running routes in the Telkom University area, built with Kotlin. This project was created as the final assignment for the Algorithms Strategies course.
 
-## Screenshots:
+## Screenshots
 
 <img src="https://github.com/user-attachments/assets/3595fa21-b38c-493b-b8eb-b9a1fa8252da" height="512px">
 <img src="https://github.com/user-attachments/assets/80952307-d3d5-4b3f-91f8-aae7fb009470" height="512px">
@@ -11,24 +11,27 @@ An app to find running routes in the Telkom University area, built with Kotlin. 
 <img src="https://github.com/user-attachments/assets/5a62125b-92ef-46cf-9b55-002f0398d32a" height="512px">
 <img src="https://github.com/user-attachments/assets/d01ece2c-285d-4375-a6fa-aea63fc5373e" height="512px">
 
-## Features:
+## Features
 
 * **Find a Running Route:** Find a running route with the desired track distance from a selected starting point in the Telkom University area.
 * **Choose an Algorithm:** Allow choosing between Backtracking or Dijkstra's algorithm to find the running route.
 
-## Technologies Used:
+## Technologies Used
 
-### Languages:
-* **Kotlin**
+**Languages:**
 
-### UI:
-* **XML Layouts**
+* Kotlin
 
-### Libraries:
-* **ViewModel**
-* **LiveData**
+**UI:**
 
-## How to Run:
+* XML Layouts
+
+**Libraries:**
+
+* ViewModel
+* LiveData
+
+## How to Run
 
 **Prerequisites:**
 
